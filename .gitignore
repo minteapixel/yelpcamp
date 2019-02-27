@@ -1,0 +1,8 @@
+# dev stuff
+.env
+keys.js
+seeds.js
+notes.md
+/node_modules
+.DS_Store
+.DS_Store
